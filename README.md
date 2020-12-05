@@ -1,5 +1,6 @@
-# Happy-2.0-Server
-backend of happy 2.0
+# Happy 2.0 Server
+
+Backend of happy 2.0
 
 ## Sobre o Projeto
 
