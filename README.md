@@ -6,8 +6,6 @@ Backend of happy 2.0
 
 Esta aplicação feita especialmente para o dia das crianças, com o objetivo de conectar pessoas que querem visitar orfanatos e levar alegria para as crianças.
 
-Para ver o **App web**, clique aqui: [Happy Web](https://github.com/ARTHURPC03/Happy-Web) <br />
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
