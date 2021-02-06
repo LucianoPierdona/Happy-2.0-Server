@@ -29,7 +29,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ARTHURPC03/Happy-Backend
+$ git clone https://github.com/LucianoPierdona/Happy-2.0-Server
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Happy-Backend
